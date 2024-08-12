@@ -1,0 +1,11 @@
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\bin\Debug\UrunKayit.exe.config
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\bin\Debug\UrunKayit.exe
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\bin\Debug\UrunKayit.pdb
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Debug\UrunKayit.csprojAssemblyReference.cache
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Debug\UrunKayit.Form1.resources
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Debug\UrunKayit.LoginView.resources
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Debug\UrunKayit.Properties.Resources.resources
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Debug\UrunKayit.csproj.GenerateResource.cache
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Debug\UrunKayit.csproj.CoreCompileInputs.cache
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Debug\UrunKayit.exe
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Debug\UrunKayit.pdb

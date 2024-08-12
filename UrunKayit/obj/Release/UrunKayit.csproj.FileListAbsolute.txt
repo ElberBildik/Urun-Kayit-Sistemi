@@ -1,0 +1,11 @@
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\bin\Release\UrunKayit.exe.config
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\bin\Release\UrunKayit.exe
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\bin\Release\UrunKayit.pdb
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Release\UrunKayit.Form1.resources
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Release\UrunKayit.LoginView.resources
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Release\UrunKayit.Properties.Resources.resources
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Release\UrunKayit.csproj.GenerateResource.cache
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Release\UrunKayit.csproj.CoreCompileInputs.cache
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Release\UrunKayit.exe
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Release\UrunKayit.pdb
+C:\Users\elber\source\repos\UrunKayit\UrunKayit\obj\Release\UrunKayit.csproj.AssemblyReference.cache
